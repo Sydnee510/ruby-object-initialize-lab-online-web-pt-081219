@@ -8,7 +8,7 @@ class Dog
 end
  end
  fido = Dog.new("Mutt")
- 
+ fido.bread
  
 # def name=(name)
 #     @name = name
